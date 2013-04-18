@@ -1,0 +1,9 @@
+/* CSS Document */
+html{background-color:#fff; font-family:Verdana, Geneva, sans-serif; font-size:16px; color:#000;}
+body{width:660px; margin:0 auto; background-color:#C96; padding:10px; margin-top:15px; border:#000 solid 5px; border-radius:20px;}
+section{margin:0 auto; width:480px;}
+ul{list-style:none; border:black solid 2px; border-radius:10px; width:220px; margin:0 auto; margin-bottom:15px; background-image:url(../images/wood.jpg); background-repeat:no-repeat; }
+li{margin:2px;}
+.list{color:#CC9; font-weight:bold; margin-top:-5px; padding-bottom:5px;}
+h2{margin:0 auto; color:#fff;}
+h1{margin-left:125px; font-family:Georgia, "Times New Roman", Times, serif;}

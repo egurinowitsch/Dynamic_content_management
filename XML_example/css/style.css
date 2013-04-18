@@ -1,0 +1,9 @@
+/* CSS Document */
+html{font-family:Verdana, Geneva, sans-serif; color:#fff; background-color:#fff;}
+body{width:550px; margin:0 auto; margin-top:15px;}
+section{width:450px; background-color:black; padding:25px; margin:0 auto; margin-top:10px; border:#900 8px solid; border-radius:20px;}
+h1{color:#000; margin-left:80px; font-size:28px;}
+h2{font-size:20px;}
+ul{list-style:none; }
+hr{width:400px; margin-left:-5px; color:#900;}
+li{line-height:20px; color:#F00;}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fonts>
+	<font>
+		<name>Helvetica</name>
+		<designer>Max Miedinger</designer>
+		<year>1957</year>
+		<type>Sans-serif</type>
+	</font>
+	<font>
+		<name>Trade Gothic</name>
+		<designer>Jackson Burke</designer>
+		<year>1948</year>
+		<type>Sans-serif</type>
+	</font>
+	<font>
+		<name>Palatino</name>
+		<designer>Hermann Zapf</designer>
+		<year>1950</year>
+		<type>Serif</type>
+	</font>
+	<font>
+		<name>Mistral</name>
+		<designer>Roger Excoffon</designer>
+		<year>1953</year>
+		<type>Script</type>
+	</font>
+	<font>
+		<name>Jenson</name>
+		<designer>Robert Slimbach</designer>
+		<year>1995</year>
+		<type>Serif</type>
+	</font>
+</fonts>
